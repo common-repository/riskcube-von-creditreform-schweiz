@@ -1,0 +1,1 @@
+require('riskcube.checkInvoices.js');
